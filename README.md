@@ -5,7 +5,7 @@ A Python-based data analysis project exploring food waste trends, economic losse
 ## 📊 Visualizations & Key Insights
 
 ### 1. Top 10 Waste Generating Countries
-![Top 10 Countries](top10_countries_waste.png)
+![Top 10 Countries](top10_countries.png)
 
 ### 2. Waste Distribution by Food Category
 ![Category Pie Chart](waste_by_category_pie.png)
